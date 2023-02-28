@@ -1,3 +1,4 @@
 nombre: Daniel
 apellido: Llanes
 localidad: Cordoba
+edad: 24
