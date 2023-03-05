@@ -4,8 +4,6 @@ public class EjercicioDos {
 	public static void main(String[] args) {
 		String abecedario = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 		String desabecedario = "UVWXYZABCDEFGHIJKLMNOPQRST";
-		String saludo = "Hola mundo";
-		String despedida = "Hasta pronto";
 		
 		System.out.println(codificacion(abecedario, 20));
 		System.out.println(decodificacion(desabecedario));
